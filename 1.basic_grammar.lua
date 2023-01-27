@@ -1,11 +1,12 @@
 print("Hello Lua!")
 
 --[[
-    块注释
+    block comment
 ]]
 
 --[[
-    nil 类型表示没有任何有效值，只要是没有声明的值就是 nil
+    The nil type indicates no valid value; 
+    as long as there is no declared value, it is nil.
 ]]
 print(a) -- nil
 
